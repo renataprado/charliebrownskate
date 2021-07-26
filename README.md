@@ -16,7 +16,7 @@ npm start
 ```
 
 ## Resultado
-
+```bash
 12 + 1 - skates: 1
 A Banca - skates: 1
 Aquele Velho Carteado e Algumas Manobrinhas - skates: 2
@@ -58,3 +58,4 @@ Tamo Aí Na Atividade - skates: 4
 Vivendo a Vida Numa Louca Viagem - skates: 3
 
 totalSkates = 80
+```
