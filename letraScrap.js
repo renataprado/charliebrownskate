@@ -23,7 +23,7 @@ async function main(){
         }
     });
 
-    console.log("totalSkates ="+ totalSkates)
+    console.log("totalSkates = "+ totalSkates)
 
 }
 
