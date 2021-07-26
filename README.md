@@ -1,7 +1,7 @@
-# Web Scrapping - Charlie Brown Jr. Skates
+# Web Scraper - Charlie Brown Jr. Skates
 
 ## Sobre
-quantas vezes a palavra "skate" aparece nas letras do Charlie Brown Jr. disponíveis em https://www.letras.mus.br/charlie-brown-jr/
+Web Scraper em NodeJS que procura nas letras do Charlie Brown Jr. disponíveis em https://www.letras.mus.br/charlie-brown-jr/ quantas vezes a palavra "skate" aparece 
 
 ## Setup
 
