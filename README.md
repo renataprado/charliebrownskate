@@ -1,7 +1,7 @@
 # Web Scraper - Charlie Brown Jr. Skates
 
 ## Sobre
-Web Scraper em NodeJS que procura nas letras do Charlie Brown Jr. disponíveis em https://www.letras.mus.br/charlie-brown-jr/ quantas vezes a palavra "skate" aparece 
+Web Scraper em NodeJS que procura e conta a palavra "skate" nas letras do Charlie Brown Jr. disponíveis em https://www.letras.mus.br/charlie-brown-jr/
 
 ## Setup
 
